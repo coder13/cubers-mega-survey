@@ -2,3 +2,8 @@ node_modules
 credentials.json
 token.json
 config.json
+.next
+out
+.env
+vercel.json
+quickstart-*.json
